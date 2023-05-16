@@ -1,0 +1,9 @@
+pip install nba_api
+pip install tabulate
+pip install pandas
+pip install requests
+pip install numpy
+pip install shutil
+pip install matplotlib
+pip instal fpdf
+pip install dataframe_image
